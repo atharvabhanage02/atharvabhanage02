@@ -19,14 +19,22 @@
   </a>
 </p>
 
-<p>
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=atharvabhanage02&show_icons=true&theme=radical" /> &nbsp &nbsp
-  <img width-48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvabhanage02&layout&theme=radical" />
-</p>
+## 📊 <strong> My Github Stats 🚀 </strong>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharvabhanage02l&color=green&color=green" alt="atharvabhanage02" /> 
+</p>
+ 
  <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvabhanage02&show_icons=true&theme=radical" alt="atharvabhanage02" />
 </p>
+<p>
+  <img width=48% src="https://github-readme-stats.vercel.app/api?username=atharvabhanage02&show_icons=true&layout&theme=radical" alt="atharvabhanage02" /> &nbsp &nbsp
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvabhanage02&layout&theme=radical" />
+</p>
+
+
+
   
   ### � Top Repositories
   
