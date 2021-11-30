@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/twitter/follow/AtharvaBhanage?label=Twitter&logo=twitter&style=for-the-badge&color=blue" style="max-width: 100%;">
   </a>
   &nbsp &nbsp
-  <a href="https://www.linkedin.com/in/AtharvaBhanage/" rel="nofollow">
+  <a href="https://www.linkedin.com/in/atharva-bhanage-02/" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelcolor=blue" style="max-width: 100%;">
   </a>
 </p>
