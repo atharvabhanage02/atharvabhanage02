@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on improving my skills everyday.
 - 🌱 I’m currently learning React 
 - 📚 I love reading books.
-- 📫 How to reach me at **atharvabhanage2002@gmail.com**
+- 📫 Reach me at **atharvabhanage2002@gmail.com**
 
 ### 🤙 How to reach me
 
