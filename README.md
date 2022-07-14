@@ -39,7 +39,7 @@
   ### � Top Repositories
   
   <p>
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=atharvabhanage02&repo=is-your-birthday-lucky" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=atharvabhanage02&repo=ECom-CricStore" />
   &nbsp &nbsp
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=atharvabhanage02&repo=fun-with-triangles" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=atharvabhanage02&repo=cricplay-vl" />
 </p>
