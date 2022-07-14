@@ -3,8 +3,8 @@
 ### I'm a 3rd year Undergrad.
 
 - 🔭 I’m currently working on improving my skills everyday.
-- 🌱 I’m currently learning React 
-- 📚 I love reading books.
+- 🌱 Learning React.
+- 📚 Love reading books.
 - 📫 Reach me at **atharvabhanage2002@gmail.com**
 
 ### 🤙 How to reach me
